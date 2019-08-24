@@ -23,3 +23,6 @@ footer{
   width: 100%;
   background-color: rgb(218, 146, 29);
 }
+header img{
+  width: 50%;
+}
