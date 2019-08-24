@@ -9,12 +9,12 @@ section{
   background-color: rgb(133, 195, 226);
 }
 section aside{
-  width: 20%;
+  width: 100%;
   height: 400px;
   background-color: rgb(24, 128, 180);
 }
 section article{
-  width: 80%;
+  width: 100%;
   height: 400px;
   background-color: rgb(150, 185, 203);
 }
