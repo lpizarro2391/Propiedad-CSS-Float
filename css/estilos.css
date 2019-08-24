@@ -9,14 +9,16 @@ section{
   background-color: rgb(133, 195, 226);
 }
 section aside{
-  width: 100%;
+  width: 20%;
   height: 400px;
   background-color: rgb(24, 128, 180);
+  float: left;
 }
 section article{
-  width: 100%;
+  width: 80%;
   height: 400px;
   background-color: rgb(150, 185, 203);
+  float: right;
 }
 footer{
   height: 100px;
