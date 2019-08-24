@@ -21,6 +21,7 @@ section article{
   float: right;
 }
 footer{
+  clear: both;
   height: 100px;
   width: 100%;
   background-color: rgb(218, 146, 29);
